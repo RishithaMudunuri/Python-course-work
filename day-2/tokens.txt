@@ -1,0 +1,37 @@
+->TOKEN : smallest unit in the code 
+
+  (5 TYPES)
+
+1. ID
+2. OPERATIONS
+3. LITERALS
+4. KEYWORD
+5. PUNCTUATORS 
+
+->STATEMENT : single line of code
+
+
+->COMMENTS :  Better understanding
+
+  (2 types)
+
+1.#   (single line)
+2.''' (multi line)
+
+->VARIABLES
+
+1.myvar  can start with uppercase ,lowercase ,digits and _ . 
+2. NOT with space or number , keywords 
+3. case sensitive
+
+->KEYWORDS
+
+predefined (35)
+
+assert = debugging
+async = API
+in , not in = membership operators
+lambda = simple and single line
+pass = don't know what to write(empty block of code)
+raise = exceptional handling
+yeild = generator
