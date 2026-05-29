@@ -1,0 +1,46 @@
+DATATYPE
+
+-> NUMERIC DATATYPES:
+
+1. int 
+2. float
+3. complex
+
+-> SEQUENTIAL DATATYPE:
+
+1. string :  collection of characters enclosed between single quotation or double quotations ('hello') * immutable
+
+2. list   :  collection of elements enclosed between a square braces [1,2,3] *(ordered datatype) * (allows duplicate) *(mutable) *(dynamic datatype) ex: Instagram posts and comments                      (heterogeneous)
+
+3. tuple  :  immutable , fixed data ex: graphs ()
+
+-> MAPPING DATATYPE:
+
+Set: unordered dataset , mutable , does not allow duplicates , {}
+
+2. dict: keyvalue pair  , mutable , {}
+
+->boolean datatype:
+
+True
+False
+
+->none datatype:
+ 
+abscence of value.
+
+->TYPECONVERSION:
+
+1.INT->      float , complex , complex , string , Boolean
+2.FLOAT->    int , complex , str , Boolean
+3.COMPLEX->  string , Boolean
+4.STRING->   can be converted only if the inside is the integer ( int ,float ,list ,complex ,tuple ,set ,Boolean)  
+5.LIST->     string , tuple , set , Boolean
+6.TUPLE->    string , list , set , bool
+7.SET->      string , list , tuple , bool
+8.DICT->     string , list , tuple , set , bool
+9.BOOL->     int , float , string , complex 
+
+
+
+
